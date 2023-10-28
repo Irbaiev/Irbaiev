@@ -40,6 +40,8 @@
 </div>
 
 
+### 💻 Codewars:
 
+![codewars](https://www.codewars.com/users/Irbaiev/badges/large)
 
 
